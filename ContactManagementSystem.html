@@ -194,23 +194,7 @@ $(document).ready(function(){
             }
             }
             
-            // display selected row data into input text
-            function selectedRowToInput()
-            {
-                
-                for(var i = 1; i < table.rows.length; i++)
-                {
-                    table.rows[i].onclick = function()
-                    {
-                      // get the seected row index
-                      rIndex = this.rowIndex;
-                      document.getElementById("firstName").value = this.cells[0].innerHTML;
-                      document.getElementById("lastName").value = this.cells[1].innerHTML;
-                      document.getElementById("email").value = this.cells[2].innerHTML;
-                    };
-                }
-            }
-            selectedRowToInput();
+            
             
          
         </script>
