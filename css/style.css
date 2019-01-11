@@ -1,0 +1,15 @@
+ html{font-family:sans-serif;
+ -webkit-text-size-adjust:100%;
+ -ms-text-size-adjust:100%}
+ 
+ body{margin:0}
+ table{border-collapse:collapse}
+ 
+ .container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+ @media (min-width:768px){.container{width:750px}}
+ 
+ .table{background-color:transparent}caption{padding-top:8px;padding-bottom:8px;color:#777;text-align:left}th{text-align:left}
+ .table{width:100%;max-width:100%;margin-bottom:20px}
+ .table>tbody>tr>td,.table>thead>tr>th{padding:8px;line-height:1.42857143;border-top:1px solid #ddd}
+ 
+ .form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.42857143;}

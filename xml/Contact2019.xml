@@ -1,0 +1,22 @@
+<LIST>
+<CONTACT id="1">
+<FIRSTNAME>Red</FIRSTNAME>
+<LASTNAME>Rabbit</LASTNAME>
+<EMAIL>redrabbit@gmail.com</EMAIL>
+</CONTACT>
+<CONTACT id="2">
+<FIRSTNAME>Blue</FIRSTNAME>
+<LASTNAME>Elephant</LASTNAME>
+<EMAIL>blueelephant@hotmail.com</EMAIL>
+</CONTACT>
+<CONTACT id="3">
+<FIRSTNAME>Purple</FIRSTNAME>
+<LASTNAME>Orca</LASTNAME>
+<EMAIL>colouranimal@gmail.com</EMAIL>
+</CONTACT>
+<CONTACT id="4">
+<FIRSTNAME>Yellow</FIRSTNAME>
+<LASTNAME>Dolphin</LASTNAME>
+<EMAIL>thisIsNotACat@hotmail.com</EMAIL>
+</CONTACT>
+</LIST>
